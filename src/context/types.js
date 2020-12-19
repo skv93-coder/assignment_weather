@@ -1,0 +1,1 @@
+export const TOGGLE_CITIES = "TOGGLE_CITIES";
